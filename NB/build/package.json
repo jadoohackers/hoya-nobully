@@ -1,0 +1,12 @@
+{
+  "id": "nobullying123",
+  "name": "NoBullying",
+  "description": "Hides suggestive content in real time.",
+  "license": "MIT",
+  "author": "Chaman Hackers",
+  "url": "http://devpost.com/software/nobullying",
+  "icon64": "data/img/icon.png",
+  "version": "2.4.4",
+  "fullName": "No Bullying on Twitter",
+  "icon": "data/img/icon.png"
+}

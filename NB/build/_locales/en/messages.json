@@ -1,0 +1,6 @@
+﻿{
+  "description": {
+    "message": "NoBullying hides tweets suggestive of harassment in real time.",
+    "description": "Extension description in manifest."
+  }
+}
